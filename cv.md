@@ -1,6 +1,7 @@
 # Something about me
 
-### 1) Name: Eugene;   Surname: Baranovskii;
+### 1) Name: Eugene;   
+###  Surname: Baranovskii;
 
 ### 2) Contacts: 
 ### * [VK](https://vk.com/tulpakek)
