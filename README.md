@@ -1,1 +1,1 @@
-# [Curiculum Vitae(HTML)](https://eugenebard.github.io/rsschool-cv/)
+# [Curiculum Vitae(HTML)](https://eugenebard.github.io/rsschool-cv/index)
